@@ -6,7 +6,7 @@ function myFunction(){
 
         let b=3;
 
-        let c="hallo"
+        let c="hello"
 
         let d=a+b;
 
@@ -14,7 +14,7 @@ function myFunction(){
 
 
 
-
+        console.log(b)
 
         let output = a-b;
 
