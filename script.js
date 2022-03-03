@@ -1,6 +1,6 @@
 function myFunction(){
 
-    let output = "hello Javascript"
+    let output = a-b;
 
         let a=5;
 
