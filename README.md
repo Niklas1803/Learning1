@@ -3,7 +3,4 @@
 das ist ein lehrprojekt für **javascript**
 
 ## Erläuterung
-
-hallo
-
-### Niklas123
+Eine html wird erzeugt :index.html
