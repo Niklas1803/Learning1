@@ -42,7 +42,7 @@ function quadrat(laenge){
 
 function test(){
 
-let a=5;
+let a=51;
 
 if(a>10){
 
