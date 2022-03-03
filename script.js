@@ -1,6 +1,8 @@
 function myFunction(){
 
-    
+        test()
+
+
 
         let a=5;
 
@@ -33,3 +35,30 @@ function quadrat(laenge){
 
 
 }
+
+
+
+
+
+function test(){
+
+let a=5;
+
+if(a>10){
+
+    console.log("a ist groeßer als 10")
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
