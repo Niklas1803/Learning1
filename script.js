@@ -10,6 +10,7 @@ function myFunction(){
 
         let d=a+b;
 
+        let X=quadrat(3)
 
 
 
@@ -21,4 +22,14 @@ function myFunction(){
 
 
     document.getElementById("demo").innerHTML =output;
+}
+
+
+
+function quadrat(laenge){
+    q=laenge*laenge
+
+    return q
+
+
 }
