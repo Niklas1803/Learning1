@@ -1,6 +1,6 @@
 function myFunction(){
 
-    let output = a-b;
+    
 
         let a=5;
 
@@ -16,7 +16,7 @@ function myFunction(){
 
 
 
-
+        let output = a-b;
 
 
 
